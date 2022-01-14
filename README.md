@@ -15,3 +15,5 @@ git clone https://github.com/Mafia-XD/elga
 cd elga
 git pull
 python2 elga.py
+
+
